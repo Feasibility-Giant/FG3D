@@ -33,6 +33,6 @@ Contributing :handshake:
 
 
 **Contact :email:**
-For any questions or feedback, feel free to contact us at emmanuelmieye@gmail.com.
+For any questions or feedback, feel free to contact us at jbunakiye@gmail.com.
 
 Let's unleash the power of 3D modelling and fluid simulations for pipeline analysis! :oil_drum: :chart_with_upwards_trend:
